@@ -1,11 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+// get our fontawesome imports
+import { faHome, faIgloo } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      
+    <FontAwesomeIcon icon={faHome} />
+    <FontAwesomeIcon icon={faIgloo} />
 <p>01- ABERTURA : acolhida, canto, intençoes, oracao do espirito santo e sinal da cruz; </p>
 
 <p>02-Oração pela igreja e pelos sarcedotes:</p>
