@@ -8,32 +8,86 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className="aplicacao">
+        <header class="w3-container w3-card-4 w3-theme">
+            <h1>Orações</h1>
+        </header>
+
+        <div class="w3-panel">
+          <div class="w3-row">
+            
+            <div class="w3-col s12 w3-container">
+            <h3>01- ABERTURA : acolhida, canto, intençoes, oracao do espirito santo e sinal da cruz; </h3>
+              
+            </div>
+          </div>  
+        <hr/>
+          <div class="w3-row">
+           
+          <div class="w3-col s12 w3-container">
+            <h3>02-Oração pela igreja e pelos sarcedotes:</h3>
+            <p>"Ó meu Jesus, peço-vos por toda a Igreja; concedei-lhe o amor e a luz do Espírito Santo; dai força às palavras dos sacerdotes, de modo que rompam mesmo os corações mais endurecidos e os façam retornar a vós, ó Senhor. Senhor, dai-nos santos sacerdotes e vós mesmo conservai-os em santidade. Ó Divino e Sumo Sacerdote que o poder da vossa Misericórdia os acompanhe por onde andarem e os proteja contra as maquinações que o demônio não cessa de armar às almas de cada sacerdote. O poder de vossa Misericórdia, ó Senhor, destrua tudo o que poderá ofuscar a santidade do sacerdote, porque vós tudo podeis. Peço-vos, Jesus, abençoai com uma luz especial os sacerdotes com os quais me devo confessar durante minha vida. Amém."</p>
+          </div>
+        </div>
+        <hr/>
+          <div class="w3-row">
+            
+            <div class="w3-col s12 w3-container">
+              <h4>03-Via Sacra da Divina Misericordia </h4>
+              <p>Eterno Pai, eu vos ofereço a dolorosa paixão de Jesus, em expiação dos nossos pecados e do mundo inteiro.</p>
+              <p> Por sua condenação à morte, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela Cruz que lhe foi posta sobre os ombros, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela sua 1ª queda, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pelas lágrimas de sua mãe, que veio ao seu encontro, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pelo seu cansaço atroz, devido ao qual obrigaram um homem a ajudá-lo, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela compaixão da mulher que enxugou o seu rosto ensanguentado , tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela sua 2ª queda, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pelas palavras dirigidas as mulheres que dele se compadeciam, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela sua 3ª queda, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela dor que sentiu, quando o seu corpo foi despido, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela horrível perfuração dos pregos, que atravessaram suas mãos e os pés, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela água e o sangue emanados do seu coração, como fonte de todos os bens, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela lembrança de todos os tormentos de sua mãe quando o recebeu morto entre os braços, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela pedra que fechou o sepulcro, tende misericórdia de nós e do mundo inteiro.</p>
+              <p> Pela sua gloriosa ressurreição e aparição aos seus discípulos, comunicando-lhes a paz, tende misericórdia de nós e do mundo inteiro.</p>
+              <p>Vós morrestes, Jesus mas uma fonte de vida jorrou para as almas, e abriu-se um mar de misericórdia Divina envolvei o mundo todo e derramai-vos sobre nós.</p>
+              <p>A pedra fechou o sepulcro mas não para sempre. Renovemos diante dele a nossa fé na divindade de Cristo e na sua infinita misericórdia. Ela nos fará ressuscitar espiritualmente dos nossos pecados, como também nos conduzirá à completa ressurreição de todo o nosso ser na vida eterna.</p>
+              <p>(Um Pai nosso, uma Ave-Maria e um Glória ao Pai, segundo as intenções do Santo Padre)</p>
+            </div>
+          </div>
+          <div class="w3-row">
+          
+            <div class="w3-col s12 w3-container">
+              <h3>The Avengers</h3>
+              <p>A huge success for Marvel and Disney.</p>
+            </div>
+          </div>
+          <div class="w3-row">
+          
+            <div class="w3-col s12 w3-container">
+              <h3>The Avengers</h3>
+              <p>A huge success for Marvel and Disney.</p>
+            </div>
+          </div>
+        </div>
+
+        <footer class="w3-container w3-theme-l2 relativo" >
+          <a class="w3-btn w3-xlarge w3-circle w3-theme-action w3-right absoluto" >+</a>
+          <p>Copyright 2016</p>
+        </footer>
+
+       {/* <div class="w3-container w3-theme-dark w3-xlarge">«<span class="w3-right">»</span></div>
+     */}
+  </div> 
     <FontAwesomeIcon icon={faHome} />
     <FontAwesomeIcon icon={faIgloo} />
-<p>01- ABERTURA : acolhida, canto, intençoes, oracao do espirito santo e sinal da cruz; </p>
+    
 
-<p>02-Oração pela igreja e pelos sarcedotes:</p>
-<p>"Ó meu Jesus, peço-vos por toda a Igreja; concedei-lhe o amor e a luz do Espírito Santo; dai força às palavras dos sacerdotes, de modo que rompam mesmo os corações mais endurecidos e os façam retornar a vós, ó Senhor. Senhor, dai-nos santos sacerdotes e vós mesmo conservai-os em santidade. Ó Divino e Sumo Sacerdote que o poder da vossa Misericórdia os acompanhe por onde andarem e os proteja contra as maquinações que o demônio não cessa de armar às almas de cada sacerdote. O poder de vossa Misericórdia, ó Senhor, destrua tudo o que poderá ofuscar a santidade do sacerdote, porque vós tudo podeis. Peço-vos, Jesus, abençoai com uma luz especial os sacerdotes com os quais me devo confessar durante minha vida. Amém."</p>
 
-<p>03-Via Sacra da Divina Misericordia - Eterno Pai, eu vos ofereço a dolorosa paixão de Jesus, em expiação dos nossos pecados e do mundo inteiro.</p>
-<p> Por sua condenação à morte, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela Cruz que lhe foi posta sobre os ombros, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela sua 1ª queda, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pelas lágrimas de sua mãe, que veio ao seu encontro, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pelo seu cansaço atroz, devido ao qual obrigaram um homem a ajudá-lo, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela compaixão da mulher que enxugou o seu rosto ensanguentado , tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela sua 2ª queda, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pelas palavras dirigidas as mulheres que dele se compadeciam, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela sua 3ª queda, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela dor que sentiu, quando o seu corpo foi despido, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela horrível perfuração dos pregos, que atravessaram suas mãos e os pés, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela água e o sangue emanados do seu coração, como fonte de todos os bens, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela lembrança de todos os tormentos de sua mãe quando o recebeu morto entre os braços, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela pedra que fechou o sepulcro, tende misericórdia de nós e do mundo inteiro.</p>
-<p> Pela sua gloriosa ressurreição e aparição aos seus discípulos, comunicando-lhes a paz, tende misericórdia de nós e do mundo inteiro.</p>
-<p>Vós morrestes, Jesus mas uma fonte de vida jorrou para as almas, e abriu-se um mar de misericórdia Divina envolvei o mundo todo e derramai-vos sobre nós.</p>
-<p>A pedra fechou o sepulcro mas não para sempre. Renovemos diante dele a nossa fé na divindade de Cristo e na sua infinita misericórdia. Ela nos fará ressuscitar espiritualmente dos nossos pecados, como também nos conduzirá à completa ressurreição de todo o nosso ser na vida eterna.</p>
-<p>(Um Pai nosso, uma Ave-Maria e um Glória ao Pai, segundo as intenções do Santo Padre)</p>
+
+
+
+
 
 
 <p>04 - Terço da Divina Misericórdia</p>
