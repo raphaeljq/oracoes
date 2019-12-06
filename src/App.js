@@ -17,23 +17,21 @@ function App() {
           <div class="w3-row">
             
             <div class="w3-col s12 w3-container">
-            <h3>01- ABERTURA : acolhida, canto, intençoes, oracao do espirito santo e sinal da cruz; </h3>
+            <h4><strong>01- ABERTURA :</strong> acolhida, canto, intençoes, oracao do espirito santo e sinal da cruz; </h4>
               
             </div>
           </div>  
         <hr/>
           <div class="w3-row">
-           
-          <div class="w3-col s12 w3-container">
-            <h3>02-Oração pela igreja e pelos sarcedotes:</h3>
-            <p>"Ó meu Jesus, peço-vos por toda a Igreja; concedei-lhe o amor e a luz do Espírito Santo; dai força às palavras dos sacerdotes, de modo que rompam mesmo os corações mais endurecidos e os façam retornar a vós, ó Senhor. Senhor, dai-nos santos sacerdotes e vós mesmo conservai-os em santidade. Ó Divino e Sumo Sacerdote que o poder da vossa Misericórdia os acompanhe por onde andarem e os proteja contra as maquinações que o demônio não cessa de armar às almas de cada sacerdote. O poder de vossa Misericórdia, ó Senhor, destrua tudo o que poderá ofuscar a santidade do sacerdote, porque vós tudo podeis. Peço-vos, Jesus, abençoai com uma luz especial os sacerdotes com os quais me devo confessar durante minha vida. Amém."</p>
-          </div>
+            <div class="w3-col s12 w3-container">
+              <h4><strong>02-Oração pela igreja e pelos sarcedotes:</strong></h4>
+              <p>"Ó meu Jesus, peço-vos por toda a Igreja; concedei-lhe o amor e a luz do Espírito Santo; dai força às palavras dos sacerdotes, de modo que rompam mesmo os corações mais endurecidos e os façam retornar a vós, ó Senhor. Senhor, dai-nos santos sacerdotes e vós mesmo conservai-os em santidade. Ó Divino e Sumo Sacerdote que o poder da vossa Misericórdia os acompanhe por onde andarem e os proteja contra as maquinações que o demônio não cessa de armar às almas de cada sacerdote. O poder de vossa Misericórdia, ó Senhor, destrua tudo o que poderá ofuscar a santidade do sacerdote, porque vós tudo podeis. Peço-vos, Jesus, abençoai com uma luz especial os sacerdotes com os quais me devo confessar durante minha vida. Amém."</p>
+            </div>
         </div>
         <hr/>
           <div class="w3-row">
-            
             <div class="w3-col s12 w3-container">
-              <h4>03-Via Sacra da Divina Misericordia </h4>
+              <h4><strong>03-Via Sacra da Divina Misericordia</strong> </h4>
               <p>Eterno Pai, eu vos ofereço a dolorosa paixão de Jesus, em expiação dos nossos pecados e do mundo inteiro.</p>
               <p> Por sua condenação à morte, tende misericórdia de nós e do mundo inteiro.</p>
               <p> Pela Cruz que lhe foi posta sobre os ombros, tende misericórdia de nós e do mundo inteiro.</p>
@@ -58,8 +56,15 @@ function App() {
           <div class="w3-row">
           
             <div class="w3-col s12 w3-container">
-              <h3>The Avengers</h3>
-              <p>A huge success for Marvel and Disney.</p>
+              <h3><strong>04 - Terço da Divina Misericórdia</strong></h3>
+              <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+
+              <p>Oração Inicial <strong>Pai-Nosso... Ave-Maria... Creio...</strong> </p><p>Nas contas grandes <strong>(do Pai-Nosso)</strong>, reza-se: </p>
+
+              <p>Eterno Pai, eu Vos ofereço o Corpo e Sangue, Alma e Divindade de Vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos do mundo inteiro.</p>
+              <p>   Nas contas pequenas <strong>(da Ave-Maria)</strong>, reza-se: </p>
+              <p>  Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro. Ao final do terço, reza-se: Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro.</p>
+              </div>
             </div>
           </div>
           <div class="w3-row">
@@ -90,9 +95,9 @@ function App() {
 
 
 
-<p>04 - Terço da Divina Misericórdia</p>
+<p></p>
 
-<p>Oração Inicial Pai-Nosso... Ave-Maria... Creio... Nas contas grandes (do Pai-Nosso), reza-se: Eterno Pai, eu Vos ofereço o Corpo e Sangue, Alma e Divindade de Vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos do mundo inteiro. Nas contas pequenas (da Ave-Maria), reza-se: Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro. Ao final do terço, reza-se: Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro.</p>
+
 <p>"Desejo que conheças mais a fundo o Meu amor, de que está inflamado o Meu Coração pelas almas, e compreenderás isso quando refletires sobre a Minha Paixão. Invoca a Minha misericórdia para com os pecadores, pois desejo a salvação deles. Quando de coração contrito e confiante rezares essa oração por algum pecador, Eu lhe darei a graça da conversão. Esta pequena prece é a seguinte: - Ó Sangue e Água que jorrastes do Coração de Jesus como fonte de misericórdia para nós, eu confio em Vós" (Diário, 187).</p>
 
 <p>05 - Louvores a Misericórdia de Deus</p>
