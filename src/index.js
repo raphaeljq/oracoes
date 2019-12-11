@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+
 import './w3.css';
 import './w3-theme-blue.css';
+import './index.css';
 
 import './fonts/Lato-Regular.ttf';
 
