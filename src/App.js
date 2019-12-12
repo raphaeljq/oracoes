@@ -16,6 +16,8 @@ function App() {
         <div class="w3-panel">
           <div class="w3-row">
             <div class="w3-container w3-center">
+            <img src="https://coracaonovo.com.br/v2/wp-content/uploads/elementor/thumbs/jesuasayugs-o2i1gv613w7twssv5pm8zwxiy5pq1i4jwln67mj7fo.jpg" class="w3-round w3-image foto-header" alt="Misericordia"/>
+
               <h2>O TERÇO DA MISERICORDIA</h2>
             </div>  
             <div class="w3-col s12 w3-container">
@@ -37,7 +39,7 @@ function App() {
             <div class="w3-col s12 w3-container">
               <h4 className="w3-center"><strong>Via Sacra da Divina Misericordia</strong> </h4>
               <p><strong>Eterno Pai, eu vos ofereço a dolorosa paixão de Jesus, em expiação dos nossos pecados e do mundo inteiro.</strong></p>
-              <ul>
+              <ul className="w3-ul w3-hoverable">
                 <li> Por sua condenação à morte, <strong>tende misericórdia de nós e do mundo inteiro.</strong></li>
                 <li> Pela Cruz que lhe foi posta sobre os ombros, <strong>tende misericórdia de nós e do mundo inteiro.</strong></li>
                 <li> Pela sua 1ª queda, <strong>tende misericórdia de nós e do mundo inteiro.</strong></li>
@@ -76,16 +78,65 @@ function App() {
           </div>
           <div class="w3-row">
             <div class="w3-col s12 w3-container">   
-              <h4 className="w3-center"> Louvores a Misericórdia de Deus</h4>
+              <h4 className="w3-center"><strong> Louvores a Misericórdia de Deus </strong></h4>
 
-              <p>O amor de Deus é a flor e a misericórdia o fruto.Que a alma que desconfia leia estes louvores da misericórdia e torne-se confiante.</p>
-              <p>>Misericórdia Divina, que brota do seio do Pai, eu confio em Vós. Misericórdia Divina, atributo máximo de Deus, eu confio em Vós. Misericórdia Divina, mistério inefável, eu confio em Vós. Misericórdia Divina, fonte que brota do mistério da Santíssima Trindade, eu confio em Vós. Misericórdia Divina, que nenhuma mente, nem humana nem angélica pode perscrutar, eu confio em Vós. Misericórdia Divina, da qual provém toda a vida e felicidade, eu confio em Vós. Misericórdia Divina, mais sublime do que os Céus, eu confio em Vós. Misericórdia Divina, fonte de milagres e prodígios, eu confio em Vós. Misericórdia Divina, que envolve o universo todo, eu confio em Vós. Misericórdia Divina, que desce ao mundo na Pessoa do Verbo Encarnado, eu confio em Vós.</p>
-              <p>Misericórdia Divina, que brotou da chaga aberta do Coração de Jesus, eu confio em Vós. Misericórdia Divina, encerrada no Coração de Jesus para nós e sobretudo para os pecadores, eu confio em Vós. Misericórdia Divina, imperscrutável na instituição da Eucaristia, eu confio em Vós. Misericórdia Divina, na instituição da Santa Igreja, eu confio em Vós. Misericórdia Divina, no sacramento do Santo Batismo, eu confio em Vós. Misericórdia Divina, na nossa justificação por Jesus Cristo, eu confio em Vós. Misericórdia Divina, que nos acompanha por toda a vida, eu confio em Vós. Misericórdia Divina, que nos envolve de modo particular na hora da morte, eu confio em Vós. Misericórdia Divina, que nos concede a vida imortal, eu confio em Vós.</p>
-              <p>Misericórdia Divina, que nos acompanha em todos os momentos da vida, eu confio em Vós. Misericórdia Divina, que nos defende do fogo do Inferno, eu confio em Vós. Misericórdia Divina, na conversão dos pecadores endurecidos, eu confio em Vós. Misericórdia Divina, enlevo para os anjos, inefável para os Santos, eu confio em Vós. Misericórdia Divina, insondável em todos os mistérios divinos, eu confio em Vós. Misericórdia Divina, que nos eleva de toda miséria, eu confio em Vós. Misericórdia Divina, fonte de nossa felicidade e alegria, eu confio em Vós. Misericórdia Divina, que do nada nos chama para a existência, eu confio em Vós. Misericórdia Divina, que abrange todas as obras das Suas mãos, eu confio em Vós. Misericórdia Divina, que coroa tudo que existe e que existirá, eu confio em Vós. Misericórdia Divina, na qual todos somos imersos, eu confio em Vós. Misericórdia Divina, doce consolo para os corações atormentados, eu confio em Vós. Misericórdia Divina, única esperança dos desesperados, eu confio em Vós. Misericórdia Divina, repouso dos corações, paz em meio ao terror, eu confio em Vós. Misericórdia Divina, delícia e êxtase dos Santos, eu confio em Vós. Misericórdia Divina, que desperta a confiança onde não há esperança, eu confio em Vós.</p>
-              <p>“ Deus eterno, em quem a misericórdia é insondável e o tesouro da compaixão é inesgotável, olhai propício para nós e multiplicai em nós a Vossa misericórdia, para que não desesperemos nos momentos difíceis, nem esmoreçamos, mas nos submetamos com grande confiança à Vossa santa vontade, que é Amor e a própria Misericórdia" (Diário, 949).</p>
-              <p>“A humanidade não encontrará a paz enquanto não se voltar, com confiança, para a minha misericórdia.” (Diário,300)</p>
+              <blockquote class="w3-panel w3-leftbar w3-light-grey">
+                <h5><i>O amor de Deus é a flor e a misericórdia o fruto.Que a alma que desconfia leia estes louvores da misericórdia e torne-se confiante.</i></h5>
+              </blockquote>
+              <ul className="w3-ul w3-hoverable">
+                <li>Misericórdia Divina, que brota do seio do Pai, <strong>eu confio em Vós.</strong></li> <li>Misericórdia Divina, atributo máximo de Deus, eu confio em Vós. </li>
+                <li>Misericórdia Divina, mistério inefável, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, fonte que brota do mistério da Santíssima Trindade, <strong>eu confio em Vós.</strong></li>
+                <li>Misericórdia Divina, que nenhuma mente, nem humana nem angélica pode perscrutar, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, da qual provém toda a vida e felicidade, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, mais sublime do que os Céus, <strong>eu confio em Vós.</strong></li>
+                <li>Misericórdia Divina, fonte de milagres e prodígios, <strong>eu confio em Vós.</strong></li> <li>Misericórdia Divina, que envolve o universo todo, <strong>eu confio em Vós.</strong></li>
+                <li>Misericórdia Divina, que desce ao mundo na Pessoa do Verbo Encarnado, <strong>eu confio em Vós.</strong></li>
+                <li>Misericórdia Divina, que brotou da chaga aberta do Coração de Jesus, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, encerrada no Coração de Jesus para nós e sobretudo para os pecadores, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, imperscrutável na instituição da Eucaristia, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, na instituição da Santa Igreja, <strong>eu confio em Vós.</strong></li>
+                <li>Misericórdia Divina, no sacramento do Santo Batismo, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, na nossa justificação por Jesus Cristo, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, que nos acompanha por toda a vida, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, que nos envolve de modo particular na hora da morte, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, que nos concede a vida imortal, <strong>eu confio em Vós.</strong></li>
+                <li>Misericórdia Divina, que nos acompanha em todos os momentos da vida, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, que nos defende do fogo do Inferno, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, na conversão dos pecadores endurecidos, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, enlevo para os anjos, inefável para os Santos, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, insondável em todos os mistérios divinos, <strong>eu confio em Vós.</strong></li> 
+                <li>Misericórdia Divina, que nos eleva de toda miséria, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, fonte de nossa felicidade e alegria, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, que do nada nos chama para a existência, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, que abrange todas as obras das Suas mãos, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, que coroa tudo que existe e que existirá, <strong>eu confio em Vós.</strong></li> 
+                <li>  Misericórdia Divina, na qual todos somos imersos, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, doce consolo para os corações atormentados, <strong>eu confio em Vós.</strong></li> 
+                <li>  Misericórdia Divina, única esperança dos desesperados, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, repouso dos corações, paz em meio ao terror, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, delícia e êxtase dos Santos, <strong>eu confio em Vós.</strong> </li>
+                <li>Misericórdia Divina, que desperta a confiança onde não há esperança, <strong>eu confio em Vós.</strong></li>
+              </ul>
             </div>
-          </div>   
+          </div>
+          <div class="w3-row">
+              <div class="w3-col s12 w3-container">
+                <h4 className="w3-center"><strong>Oremos</strong></h4>
+                <blockquote class="w3-panel w3-leftbar w3-light-grey">
+                <h5><i>Ó Deus Eterno, em quem a Misericórdia é insondável, e o tesouro da compaixão é inesgotável, olhai propício para nós e multiplicai em nós a vossa Misericórdia, para que não desesperemos nos momentos difíceis, nem esmoreçamos, mas nos submetamos com grande confiança à Vossa Santa Vontade, que é amor e a própria Misericórdia. Amém.”</i></h5>
+                </blockquote>
+              </div>
+          </div>
+          <div class="w3-row">
+              <div class="w3-col s12 w3-container">
+                <h4 className="w3-center"><strong>Oração à Divina Misericordia</strong></h4>
+                <blockquote class="w3-panel w3-leftbar w3-light-grey">
+                <h5><i>"Ó Deus de grande Misericordia, bondade infinita, eis que hoje a humanidade toda clama  do abismo de sua miséria à vossa Misericordia, à vossa Compaixão, ó Deus clemente, não rejeiteis a Oração dos exilados desta terra. Ó Senhor, bondade inconcebível, que conheceis profundamente a nossa miséria e sabeis que com nossas próprias forças não temos condições de nos elevar a até Vós, por isso vos suplicamos, adiantai-vos ao nosso pedido com Vossa graça e aumentai em nós sem cessar a Vossa Misericordia, a fim de que possamos cumprir fielmente a Vossa Santa Vontade durante toda a nossa vida e na hora da morte. Que poder da Vossa Misericordia nos defenda dos ataques dos inimigos da nossa salvação, para que aguardemos com confiança, como Vossos filhos, a Vossa Vinda última, dia que somente Vós conheceis. E esperamos alcançar tudo o que Jesus nos prometeu, apesar de toda a nossa miséria, porque Jesus é a nossa confiança; pelo seu coração Misericordioso, como por uma porta aberta, entraremos no Céu."<strong>AMÉM!</strong> (D. 1570) 
+                  </i></h5>
+                </blockquote>
+              </div>
+          </div>     
           <div class="w3-row">
             <div class="w3-col s12 w3-container">
               <h3>The Avengers</h3>
@@ -105,9 +156,10 @@ function App() {
     <FontAwesomeIcon icon={faHome} />
     <FontAwesomeIcon icon={faIgloo} />
   
+    
 <p>06 - Oração à divina misericórdia</p>
 
-<p>Ó Deus Eterno, em quem a Misericórdia é insondável, e o tesouro da compaixão é inesgotável, olhai propício para nós e multiplicai em nós a vossa Misericórdia, para que não desesperemos nos momentos difíceis, nem esmoreçamos, mas nos submetamos com grande confiança à Vossa Santa Vontade, que é amor e a própria Misericórdia. Amém.”</p>
+<p></p>
 
 <p>07 - Mensagem do livro da Santa Faustina</p>
 
