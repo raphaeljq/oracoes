@@ -80,7 +80,7 @@ function App() {
             <div class="w3-col s12 w3-container">   
               <h4 className="w3-center"><strong> Louvores a Misericórdia de Deus </strong></h4>
 
-              <blockquote class="w3-panel w3-leftbar w3-light-grey">
+              <blockquote class="w3-panel w3-leftbar w3-light-grey custom-blockquote">
                 <h5><i>O amor de Deus é a flor e a misericórdia o fruto.Que a alma que desconfia leia estes louvores da misericórdia e torne-se confiante.</i></h5>
               </blockquote>
               <ul className="w3-ul w3-hoverable">
@@ -123,7 +123,7 @@ function App() {
           <div class="w3-row">
               <div class="w3-col s12 w3-container">
                 <h4 className="w3-center"><strong>Oremos</strong></h4>
-                <blockquote class="w3-panel w3-leftbar w3-light-grey">
+                <blockquote class="w3-panel w3-leftbar w3-light-grey custom-blockquote">
                 <h5><i>Ó Deus Eterno, em quem a Misericórdia é insondável, e o tesouro da compaixão é inesgotável, olhai propício para nós e multiplicai em nós a vossa Misericórdia, para que não desesperemos nos momentos difíceis, nem esmoreçamos, mas nos submetamos com grande confiança à Vossa Santa Vontade, que é amor e a própria Misericórdia. Amém.”</i></h5>
                 </blockquote>
               </div>
@@ -132,7 +132,7 @@ function App() {
               <div class="w3-col s12 w3-container">
                 <h4 className="w3-center"><strong>Oração à Divina Misericordia</strong></h4>
                 <blockquote class="w3-panel w3-leftbar w3-light-grey custom-blockquote">
-                <h5><i>"Ó Deus de grande Misericordia, bondade infinita, eis que hoje a humanidade toda clama  do abismo de sua miséria à vossa Misericordia, à vossa Compaixão, ó Deus clemente, não rejeiteis a Oração dos exilados desta terra. Ó Senhor, bondade inconcebível, que conheceis profundamente a nossa miséria e sabeis que com nossas próprias forças não temos condições de nos elevar a até Vós, por isso vos suplicamos, adiantai-vos ao nosso pedido com Vossa graça e aumentai em nós sem cessar a Vossa Misericordia, a fim de que possamos cumprir fielmente a Vossa Santa Vontade durante toda a nossa vida e na hora da morte. Que poder da Vossa Misericordia nos defenda dos ataques dos inimigos da nossa salvação, para que aguardemos com confiança, como Vossos filhos, a Vossa Vinda última, dia que somente Vós conheceis. E esperamos alcançar tudo o que Jesus nos prometeu, apesar de toda a nossa miséria, porque Jesus é a nossa confiança; pelo seu coração Misericordioso, como por uma porta aberta, entraremos no Céu."<strong>AMÉM!</strong> (D. 1570) 
+                <h5><i>"Ó Deus de grande Misericordia, bondade infinita, eis que hoje a humanidade toda clama  do abismo de sua miséria à vossa Misericordia, à vossa Compaixão, ó Deus clemente, não rejeiteis a Oração dos exilados desta terra. Ó Senhor, bondade inconcebível, que conheceis profundamente a nossa miséria e sabeis que com nossas próprias forças não temos condições de nos elevar a até Vós, por isso vos suplicamos, adiantai-vos ao nosso pedido com Vossa graça e aumentai em nós sem cessar a Vossa Misericordia, a fim de que possamos cumprir fielmente a Vossa Santa Vontade durante toda a nossa vida e na hora da morte. Que poder da Vossa Misericordia nos defenda dos ataques dos inimigos da nossa salvação, para que aguardemos com confiança, como Vossos filhos, a Vossa Vinda última, dia que somente Vós conheceis. E esperamos alcançar tudo o que Jesus nos prometeu, apesar de toda a nossa miséria, porque Jesus é a nossa confiança; pelo seu coração Misericordioso, como por uma porta aberta, entraremos no Céu."<br/><strong>AMÉM!</strong> (D. 1570) 
                   </i></h5>
                 </blockquote>
               </div>
