@@ -72,7 +72,7 @@ function App() {
 
                 <p>Eterno Pai, eu Vos ofereço o Corpo e Sangue, Alma e Divindade de Vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos do mundo inteiro.</p>
                 <p>   Nas contas pequenas <strong>(da Ave-Maria)</strong>, reza-se: </p>
-                <p>  Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro. Ao final do terço, reza-se: Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro.</p>
+                <p>  <strong><i>Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.<br/></i></strong> <br/>Ao final do terço, reza-se:<br/> <strong><i>Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro.</i></strong></p>
               </div>
             </div>
           </div>
@@ -137,12 +137,41 @@ function App() {
                 </blockquote>
               </div>
           </div>     
+          
           <div class="w3-row">
             <div class="w3-col s12 w3-container">
-              <h3>The Avengers</h3>
-              <p>A huge success for Marvel and Disney.</p>
+              <h4 className="w3-center"><strong>Mensagem do livro da Santa Faustina</strong></h4>
+              <p><strong>No final reza-se a prece:</strong></p>
+              <blockquote class="w3-panel w3-leftbar w3-light-grey custom-blockquote">
+                <h5>
+                    <i>"Ó Sangue e Água que jorrastes do coração de Jesus como fonte de misericórdia para nós, eu confio em vós" <br/>(Diário, 187)</i>
+                </h5>
+              </blockquote>
             </div>
           </div>
+          <div class="w3-row">
+            <div class="w3-col s12 w3-container">
+              <h4 className="w3-center"><strong> Oração de agradecimento</strong></h4>
+                <blockquote class="w3-panel w3-leftbar w3-light-grey custom-blockquote">
+                  <h5>
+                      <i><p>Ó JESUS, Ó DEUS Eterno, Te agradeço pelos inúmeros benefícios e por Tuas graças. Que cada batida do meu Coração seja um hino de agradecimento a Ti, ó DEUS. Que as gotas do meu Sangue sejam circuladas por Ti, ó Senhor. A minha Alma é um canto de adoração à Tua misericórdia. Amo-Te, Ó DEUS, por todo o sempre, por toda a Vida.</p>
+                    <p>Amém...</p></i>
+                  </h5>
+              </blockquote>
+            </div>
+          </div>
+          <div class="w3-row">
+            <div class="w3-col s12 w3-container">
+              <h4 className="w3-center"><strong> Benção Final</strong></h4>
+                <blockquote class="w3-panel w3-leftbar w3-light-grey custom-blockquote">
+                  <h5>
+                      <i><p>Santa Faustina, Rogai por nós! São João Paulo Segundo, Rogai por nós! São Benedito, Rogai por nós! Nossa Senhora Mãe da Misericórdia! Rogai por nós!</p>
+                    <p>Em nome do pai ...</p></i>
+                  </h5>
+              </blockquote>
+            </div>
+          </div>
+          
         </div>
 
         <footer class="w3-container w3-theme-l2 relativo" >
@@ -152,30 +181,9 @@ function App() {
 
        {/* <div class="w3-container w3-theme-dark w3-xlarge">«<span class="w3-right">»</span></div>
      */}
-  </div> 
-    <FontAwesomeIcon icon={faHome} />
-    <FontAwesomeIcon icon={faIgloo} />
+  </div>
   
-    
-<p>06 - Oração à divina misericórdia</p>
-
-<p></p>
-
-<p>07 - Mensagem do livro da Santa Faustina</p>
-
-<p>No final reza-se a prece:</p>
-<p>"Ó sangue e Água que jorrastes do coração de Jesus como fonte de misericordia para nós, eu confio em vós" (Diário, 187)</p>
-
-<p>08 - Oração de agradecimento</p>
-
-<p>Ó JESUS, Ó DEUS Eterno, Te agradeço pelos inúmeros benefícios e por Tuas graças. Que cada batida do meu Coração seja um hino de agradecimento a Ti, ó DEUS. Que as gotas do meu Sangue sejam circuladas por Ti, ó Senhor. A minha Alma é um canto de adoração à Tua misericórdia. Amo-Te, Ó DEUS, por todo o sempre, por toda a Vida.</p>
-<p>Amém...</p>
-
-<p>09 - Benção Final</p>
-
-<p>Santa Faustina, Rogai por nós! São João Paulo Segundo, Rogai por nós! São Benedito, Rogai por nós! Nossa Senhora Mãe da Misericórdia! Rogai por nós!</p>
-<p>Em nome do pai ...</p>
-    </div>
+</div>
   );
 }
 
