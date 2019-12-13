@@ -50,5 +50,13 @@ min-height: 400px;
 }
 
 .custom-blockquote {
-  margin-inline-start: 10px;
+  -webkit-margin-start: 0px;
+  -webkit-margin-inline-start: 0px;
+  -webkit-margin-inline-end: 0px;
+  -webkit-margin-block-end: 1rem;
+  -webkit-margin-block-start: 1rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-block-end: 1rem;
+  margin-block-start: 1rem;
 }
